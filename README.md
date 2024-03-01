@@ -1,16 +1,13 @@
-### Hi there 👋
+## Olá sou Adrian Ramos
+A Brazilian Software Engineer who loves gym and MMORPG games and currently is using javascript to build stuff but i am hard working with python/C++ for neuro technology aplicado a pesquisa cientifica.
 
-<!--
-**AdrianFRamos/AdrianFRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Experienced with:
+JavaScript, TypeScript, React-Native, NextJS, NodeJS, Tailwind, Styled-Components, Bootstrap, Delphi, Python, R, Flutter, Dart, C++, C (I've been through hard times...), and Django (I miss you ...)
 
-Here are some ideas to get you started:
+#Actually Im working with:
+Dart, Flutter, Python and C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Current learning:
+C++ / Date
+
+
