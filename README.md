@@ -15,4 +15,4 @@ C++ / A.I
 
 ##
 ![Static Badge](https://img.shields.io/badge/Profile_Views-756-blue)
-![Static Badge](https://img.shields.io/badge/Commit%20Recent-7-green)
+![Static Badge](https://img.shields.io/badge/Commit%20Recent-68-green)
